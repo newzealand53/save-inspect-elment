@@ -1,0 +1,11 @@
+_.player.getLevel = () => _.player.data.level = Infinity;
+
+
+
+
+
+
+this dose not save
+
+
+
